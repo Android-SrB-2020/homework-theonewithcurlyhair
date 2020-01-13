@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My Dice Roller</string>
-    <string name="question_1">activity_main.xml</string>
-    <string name="question_2">app_name</string>
-    <string name="question_3">AVD Manager</string>
-</resources>
