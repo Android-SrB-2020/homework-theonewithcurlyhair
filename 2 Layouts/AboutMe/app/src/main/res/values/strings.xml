@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Nikita Mieshalnykov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Nikita.
+\n\nI love sport
+    \n I used to swim for 10+ years
+    \n I also go to the gym</string>
+
+</resources>
